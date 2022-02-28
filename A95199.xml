@@ -1,0 +1,393 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A True relation of the dreadful combate between More of More-Hall and the dragon of Wantley</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95199</idno>
+            <idno type="STC">Wing T2943A</idno>
+            <idno type="STC">ESTC R43804</idno>
+            <idno type="EEBO-CITATION">42475264</idno>
+            <idno type="OCLC">ocm 42475264</idno>
+            <idno type="VID">151420</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95199)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151420)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2258:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A True relation of the dreadful combate between More of More-Hall and the dragon of Wantley</title>
+               </titleStmt>
+               <extent>3 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Randal Taylor near Stationers Hall,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Includes music.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="1" facs="tcp:151420:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 49 -->
+            <head>A TRUE RELATION OF THE Dreadful Combate BETWEEN <hi>More of More Hall,</hi> AND THE DRAGON of WANTLEY.</head>
+            <gap reason="music">
+               <desc>〈♫〉</desc>
+            </gap>
+            <lg n="1">
+               <head>1.</head>
+               <l>Old Stories tell how <hi>Hercules</hi>
+               </l>
+               <l>A Dragon ſlew at <hi>Lerna,</hi>
+               </l>
+               <l>With ſeven Heads and fourteen Eyes</l>
+               <l>To ſee and well diſcerna;</l>
+               <l>But he had a Club</l>
+               <l>This Dragon to drub,</l>
+               <l>Or he had ne'r don't, I warrant ye</l>
+               <l>But <hi>More</hi> of <hi>More-Hall,</hi>
+               </l>
+               <l>With nothing at all,</l>
+               <l>He ſlew the Dragon of <hi>Wantley.</hi>
+               </l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>This Dragon had two furious Wings,</l>
+               <l>Each one upon each Shoulder,</l>
+               <l>With a ſting in his Tayl</l>
+               <l>As long as a Flayl,</l>
+               <l>Which made him bolder and bolder.</l>
+               <l>He had long Claws,</l>
+               <l>And in his Jaws,</l>
+               <l>Four and forty Teeth of Iron,</l>
+               <l>With a Hide as Tough as any Buff,</l>
+               <l>Which did him round Inviron.</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>Have you not heard that the <hi>Trojan</hi> Horſe,</l>
+               <l>Held ſeventy men in his Belly?</l>
+               <l>This Dragon was not quite ſo big,</l>
+               <l>But very near, I'll tell ye,</l>
+               <l>Devour did he,</l>
+               <l>Poor Children Three,</l>
+               <l>That could not with him grapple;</l>
+               <l>And at one Sup,</l>
+               <l>He eat them up,</l>
+               <l>As one ſhould eat an Apple.</l>
+            </lg>
+            <lg n="4">
+               <head>4.</head>
+               <l>All ſorts of Cattle this Dragon did eat,</l>
+               <l>Some ſay he'd eat up Trees,</l>
+               <l>And that the Forreſt ſure he would</l>
+               <l>Devour up by degrees.</l>
+               <l>For Houſes and Churches</l>
+               <l>Were to him Gorſe and Buirches:</l>
+               <l>He eat all, and left none behind,</l>
+               <l>But ſome Stones, dear <hi>Jack,</hi>
+               </l>
+               <l>Which he could not crack,</l>
+               <l>Which on the Hills you will find.</l>
+            </lg>
+            <pb n="2" facs="tcp:151420:2"/>
+            <!-- PDF PAGE 50 -->
+            <lg n="5">
+               <head>5.</head>
+               <l>In <hi>Yorkſhire</hi> near fair <hi>Rotheram,</hi>
+               </l>
+               <l>The Place I know it well,</l>
+               <l>Some two or three Miles, or thereabouts,</l>
+               <l>I vow I cannot tell;</l>
+               <l>But there is a Hedge,</l>
+               <l>Juſt on the Hill Edge,</l>
+               <l>And <hi>Mathew</hi>'s Houſe hard by it:</l>
+               <l>Oh there and then,</l>
+               <l>Was this Dragon's Den,</l>
+               <l>You could not chooſe but ſpy it.</l>
+            </lg>
+            <lg n="6">
+               <head>6.</head>
+               <l>Some ſay this Dragon was a Witch;</l>
+               <l>Some ſay he was the Devil,</l>
+               <l>For from his Noſe, a ſmoke aroſe,</l>
+               <l>And with it burning Snivil,</l>
+               <l>Which he caſt off,</l>
+               <l>When he did Cough,</l>
+               <l>In a Well, that he did ſtand by,</l>
+               <l>Which made it look,</l>
+               <l>Juſt like a Brook,</l>
+               <l>Running with burning Brandy.</l>
+            </lg>
+            <lg n="7">
+               <head>7.</head>
+               <l>Hard by a furious Knight there dwelt,</l>
+               <l>Of whom all Towns did Ring;</l>
+               <l>For he could wreſtle, play at Quarter-Staff,</l>
+               <l>Kick, Cuff, Box, Huff,</l>
+               <l>Call Son of a Whore:</l>
+               <l>Do any kind of thing;</l>
+               <l>By the Tail, and the Main,</l>
+               <l>With his hands twain,</l>
+               <l>He ſwong a Horſe till he was dead,</l>
+               <l>And that which was ſtranger,</l>
+               <l>He for very Anger,</l>
+               <l>Eat him all up but his Head.</l>
+            </lg>
+            <lg n="8">
+               <head>8.</head>
+               <l>Theſe Children as I told being eat,</l>
+               <l>Men, Women, Girles, and Boyes,</l>
+               <l>Sighing and ſobbing, came to his Lodging,</l>
+               <l>And made a hideous Noyſe.</l>
+               <l>Oh ſave us all, <hi>More</hi> of <hi>More-Hall,</hi>
+               </l>
+               <l>Thou pearleſs Knight of theſe Woods;</l>
+               <l>Do but ſlay this Dragon,</l>
+               <l>We won't leave us a Rag on,</l>
+               <l>Wee'l give thee all our Goods.</l>
+            </lg>
+            <lg n="9">
+               <head>9.</head>
+               <l>Tut, Tut, quoth he, no Goods I want,</l>
+               <l>But I want, I want inſooth,</l>
+               <l>A fair Maid of Sixteen that's brisk,</l>
+               <l>And ſmiles about the Mouth:</l>
+               <l>Hair as black as a Sloe,</l>
+               <l>Both above and below,</l>
+               <l>With a Bluſh her Cheekes adorning;</l>
+               <l>To 'noynt me o're Night,</l>
+               <l>E're I go to fight,</l>
+               <l>And to dreſs me in the Morning.</l>
+            </lg>
+            <lg n="10">
+               <head>10.</head>
+               <l>This being done, he did engage</l>
+               <l>To hew this Dragon down;</l>
+               <l>But firſt he went New Armour to</l>
+               <l>Beſpeak, at <hi>Sheffield</hi> Town,</l>
+               <l>With Spikes all about,</l>
+               <l>Not within, but without,</l>
+               <l>Of Steel ſo ſharp and ſtrong,</l>
+               <l>Both behind and before,</l>
+               <l>Arms, Legs, all o're,</l>
+               <l>Some five of ſix Inches long.</l>
+            </lg>
+            <lg n="11">
+               <head>11.</head>
+               <l>Had you but ſeen him in this Dreſs,</l>
+               <l>How fierce he look't, and big,</l>
+               <l>You would have thought him for to be</l>
+               <l>An Egyptian Porcu-Pig:</l>
+               <l>He frighted all,</l>
+               <l>Cars, Dogs, and all;</l>
+               <l>Each Cow, each Horſe, and each Hog,</l>
+               <l>For fear did flee,</l>
+               <l>For they took him to be</l>
+               <l>Some ſtrange outlandiſh Hedghogg.</l>
+            </lg>
+            <lg n="12">
+               <head>12.</head>
+               <l>To ſee this Fight, all People there</l>
+               <l>Got upon Trees and Houſes,</l>
+               <l>On Churches ſome, and Chimneys too;</l>
+               <l>But they put on their Trowzes,</l>
+               <l>Not to ſpoyl their Hoſe.</l>
+               <l>As ſoon as he roſe,</l>
+               <l>To make him ſtrong and mighty,</l>
+               <l>He drank by the Tayl,</l>
+               <l>Six pots of Ale,</l>
+               <l>And a Quart of <hi>Aqua-vitae.</hi>
+               </l>
+            </lg>
+            <pb n="3" facs="tcp:151420:2"/>
+            <!-- PDF PAGE 50 -->
+            <lg n="13">
+               <head>13.</head>
+               <l>It is not Strength that always wins,</l>
+               <l>For Wit doth Strength excel,</l>
+               <l>Which made our cunning Champion</l>
+               <l>Creep down into a Well,</l>
+               <l>Where he did think</l>
+               <l>This Dragon would drink,</l>
+               <l>And ſo he did in Truth;</l>
+               <l>And as he ſtoop't low,</l>
+               <l>He roſe up and cry'd boe,</l>
+               <l>And hit him in the Mouth.</l>
+            </lg>
+            <lg n="14">
+               <head>14.</head>
+               <l>Oh, quoth the Dragon, pox take you come out.</l>
+               <l>Thou that diſturb'ſt me in my Drink,</l>
+               <l>And then he turn'd and ſhit at him,</l>
+               <l>Good lack how he did ſtink:</l>
+               <l>Beſhrew thy Soul,</l>
+               <l>Thy Body is foul,</l>
+               <l>Thy Dung ſmells not like Balſome:</l>
+               <l>Thou Son of a Whore,</l>
+               <l>Thou ſtink'ſt ſo ſore,</l>
+               <l>Sure thy Dyet it is unwholeſome.</l>
+            </lg>
+            <lg n="15">
+               <head>15.</head>
+               <l>Our Politick Knight, on the other ſide</l>
+               <l>Crep't out upon the Brink,</l>
+               <l>And gave the Dragon ſuch a douſt,</l>
+               <l>He knew not what to think:</l>
+               <l>By Cock, quoth he,</l>
+               <l>Say you ſo, do you ſee,</l>
+               <l>And then at him he let flie;</l>
+               <l>With Hand and with Foot,</l>
+               <l>And ſo they went to't,</l>
+               <l>And the Word it was, Hey Boyes hey.</l>
+            </lg>
+            <lg n="16">
+               <head>16.</head>
+               <l>You Word, quoth the Dragon, I don't underſtand</l>
+               <l>Then to't they fell at all,</l>
+               <l>Like two Wild Bears, ſo fierce I may</l>
+               <l>Compare great things with ſmall:</l>
+               <l>Two Dayes and a Night,</l>
+               <l>With this Dragon did fight,</l>
+               <l>Our Champion on the Ground,</l>
+               <l>Tho' their Strength it was great,</l>
+               <l>Yet their Skill it was neat.</l>
+               <l>They never had one Wound,</l>
+            </lg>
+            <lg n="17">
+               <head>17.</head>
+               <l>At length the hard Earth began for to quake,</l>
+               <l>The Dragon gave him ſuch a knock,</l>
+               <l>Which made him to Reel,</l>
+               <l>And ſtrait way he thought</l>
+               <l>To lift him as high as a Rock;</l>
+               <l>And thence let him fall,</l>
+               <l>But <hi>More</hi> of <hi>More-Hall,</hi>
+               </l>
+               <l>Like a Valiant Son of <hi>Mars;</hi>
+               </l>
+               <l>As he came like a Lout,</l>
+               <l>So he turn'd him about,</l>
+               <l>And hit him a kick on the Arſe.</l>
+            </lg>
+            <lg n="18">
+               <head>18.</head>
+               <l>Oh, quoth the Dragon, with a Sigh,</l>
+               <l>And turn'd ſix times together,</l>
+               <l>Sobbing, and tearing, curſing and ſwearing</l>
+               <l>Out of his Throat of Leather.</l>
+               <l>Oh, thou Raskal,</l>
+               <l>
+                  <hi>More</hi> of <hi>More-Hall,</hi>
+               </l>
+               <l>Would I had ſeen you never,</l>
+               <l>With the Thing at thy Foot,</l>
+               <l>Thou haſt prick't my Arſe Gut;</l>
+               <l>Oh, I am quite undone for ever.</l>
+            </lg>
+            <lg n="19">
+               <head>19.</head>
+               <l>Murder, Murder, the Dragon cry'd,</l>
+               <l>Alack, alack, for Grief,</l>
+               <l>Had you but miſt that Place, you could</l>
+               <l>Have done me no Miſchief;</l>
+               <l>Then his Head he ſhak't,</l>
+               <l>Trembled, and Quackt,</l>
+               <l>And down he layd, and cryed;</l>
+               <l>Firſt on one Knee,</l>
+               <l>Then on back, tumbled he,</l>
+               <l>So groan'd, kick't, ſhit, and dyed.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Randal Taylor,</hi> near <hi>Stationers Hall,</hi> 1685.</p>
+            <pb facs="tcp:151420:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 51 -->
+            <pb facs="tcp:151420:3"/>
+            <!-- PDF PAGE 51 -->
+         </div>
+      </back>
+   </text>
+</TEI>
